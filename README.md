@@ -52,7 +52,7 @@
 </div>
 
 |    ![Stats](https://github-readme-stats.vercel.app/api?username=ra-226&show_icons=true&theme=default&count_private=true)   |   ![UA](https://count.getloli.com/@Ra-226?name=Ra-226&theme=ai-1)   |
-| ---- | ---- | ---- |
+| ---- | ---- |
 
 
 
