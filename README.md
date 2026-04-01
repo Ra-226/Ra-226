@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:2563eb,100:14b8a6&text=Ra-226&fontAlign=50&fontAlignY=38&fontColor=ffffff&fontSize=48&desc=Security%20Research%20%7C%20Steganography%20%7C%20Open%20Source&descAlign=50&descAlignY=58&animation=fadeIn" alt="Ra-226 banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,50:1d4ed8,100:0891b2&text=Ra-226&fontAlign=50&fontAlignY=34&fontColor=ffffff&fontSize=42&desc=Security%20Research%20%7C%20Searchable%20Encryption%20%7C%20Multimedia%20Security&descAlign=50&descAlignY=56" alt="Ra-226 banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Build+carefully.+Hide+cleverly.+Ship+cleanly.;Working+on+multimedia+security%2C+tooling%2C+and+practical+projects.;Java+%7C+Python+%7C+Linux+%7C+Containers+%7C+Research" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3200&pause=900&color=2563EB&center=true&vCenter=true&width=900&lines=Build+carefully%2C+analyze+deeply%2C+ship+cleanly.;Working+on+searchable+encryption+attacks+and+media+security.;Research+ideas+to+usable+code." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,24 +14,64 @@
     <img src="https://img.shields.io/badge/Public%20Repos-19-0f766e?style=for-the-badge&logo=github" alt="Public repositories" />
   </a>
   <a href="https://ra-226.github.io/">
-    <img src="https://img.shields.io/badge/Website-ra--226.github.io-14b8a6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/Website-ra--226.github.io-0891b2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Ra-226&style=for-the-badge&color=0ea5e9" alt="Profile views" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Searchable%20Encryption-Attacks-0f172a?style=flat-square&logo=probot&logoColor=white" alt="Searchable Encryption Attacks" />
+  <img src="https://img.shields.io/badge/Violin-Research-1d4ed8?style=flat-square&logo=buffer&logoColor=white" alt="Violin Research" />
+  <img src="https://img.shields.io/badge/MIDAS-Related%20Ideas-0f766e?style=flat-square&logo=databricks&logoColor=white" alt="MIDAS Related Ideas" />
+  <img src="https://img.shields.io/badge/Image%20%26%20Audio-Security-0891b2?style=flat-square&logo=waveform&logoColor=white" alt="Image and Audio Security" />
+  <img src="https://img.shields.io/badge/Open%20Source-Engineering-334155?style=flat-square&logo=opensourceinitiative&logoColor=white" alt="Open Source Engineering" />
+</p>
+
+```text
+ra-226@lab:~$ status
+role        : security researcher / builder
+focus       : searchable encryption attacks, media security, reproducible experiments
+toolkit     : java, python, linux, containers, matlab, databases
+preference  : code that explains ideas clearly and can actually be tested
+```
 
 <table>
   <tr>
-    <td valign="top" width="56%">
+    <td valign="top" width="52%">
       <h3>About Me</h3>
       <ul>
-        <li>I like building around steganography, image and audio security, and hands-on engineering experiments.</li>
-        <li>My everyday toolkit includes Java, Python, Spring, Linux, and containerized workflows.</li>
-        <li>Recent work covers JPEG hidden-data tooling, chaotic image encryption, and personal site building.</li>
-        <li>I enjoy turning research-flavored ideas into small, usable projects.</li>
+        <li>I work around security research, practical engineering, and research-oriented prototyping.</li>
+        <li>My projects often sit between theory and implementation: attacks, analysis tools, and reproducible experiments.</li>
+        <li>I like building with Java, Python, Linux, containers, and data-heavy workflows.</li>
+        <li>I also maintain a personal site and small open-source utilities.</li>
       </ul>
     </td>
-    <td valign="top" width="44%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ra-226&layout=compact&theme=vue-dark&hide_border=true&langs_count=8" alt="Top Languages" />
+    <td valign="top" width="48%">
+      <h3>Current Research Focus</h3>
+      <ul>
+        <li>Searchable encryption attacks, especially leakage-abuse, volumetric injection, and recovery analysis.</li>
+        <li>Research threads connected to <b>Violin</b> and related encrypted-search attack ideas such as <b>MIDAS</b>.</li>
+        <li>Multimedia security, including image encryption, steganography, and audio watermarking.</li>
+        <li>Turning papers and research ideas into code that can actually be tested and studied.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<h3 align="center">Research Map</h3>
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <b>Encrypted Search</b><br/>
+      Leakage-abuse attacks, query recovery, file injection, volumetric analysis, and practical evaluation for SSE-style systems.
+    </td>
+    <td valign="top" width="33%">
+      <b>Media Security</b><br/>
+      Image hiding, audio hiding, watermarking, and encryption-oriented experiments for digital media.
+    </td>
+    <td valign="top" width="34%">
+      <b>Research Engineering</b><br/>
+      Reproducible code, experiments, tooling, and small systems that make security ideas easier to validate.
     </td>
   </tr>
 </table>
@@ -86,41 +126,51 @@
   </a>
 </p>
 
-<h3 align="center">GitHub Snapshot</h3>
+<h3 align="center">Selected Work</h3>
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <a href="https://github.com/Ra-226/Violin"><b>Violin</b></a><br/>
+      A volumetric injection attack against searchable encryption, with code for evaluating recovery behavior and attack settings.<br/>
+      <sub>Python | searchable encryption | attack research</sub>
+    </td>
+    <td valign="top" width="50%">
+      <a href="https://github.com/Ra-226/file-hiding-and-detection"><b>file-hiding-and-detection</b></a><br/>
+      Hide arbitrary files in JPEG images with AES-256-GCM and detect, extract, decrypt, or strip hidden payloads.<br/>
+      <sub>Python | JPEG analysis | steganography tooling</sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <a href="https://github.com/Ra-226/SboxChaoticImageEncryption"><b>SboxChaoticImageEncryption</b></a><br/>
+      An implementation and study-oriented codebase for chaotic image encryption based on S-box design and related experiments.<br/>
+      <sub>MATLAB | image encryption | research implementation</sub>
+    </td>
+    <td valign="top" width="50%">
+      <a href="https://github.com/Ra-226/Ra-226.github.io"><b>Ra-226.github.io</b></a><br/>
+      My personal site, where I experiment with presentation, project writeups, and a cleaner public research-facing presence.<br/>
+      <sub>Web | personal site | project showcase</sub>
+    </td>
+  </tr>
+</table>
+
+<h3 align="center">What I Like Building</h3>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ra-226&show_icons=true&theme=vue-dark&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=Ra-226&theme=vue-dark&hide_border=true" alt="GitHub streak" />
+  Attack reproductions | experiment code | security tooling | media analysis | small but useful systems
+</p>
+
+<h3 align="center">Contribution Snake</h3>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ra-226/Ra-226/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ra-226/Ra-226/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Ra-226/Ra-226/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 <p align="center">
-  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=Ra-226&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies" />
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ra-226&theme=github-compact&hide_border=true&area=true" alt="GitHub activity graph" />
-</p>
-
-<h3 align="center">Featured Projects</h3>
-
-<p align="center">
-  <a href="https://github.com/Ra-226/file-hiding-and-detection">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ra-226&repo=file-hiding-and-detection&theme=vue-dark&hide_border=true" alt="file-hiding-and-detection" />
-  </a>
-  <a href="https://github.com/Ra-226/SboxChaoticImageEncryption">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ra-226&repo=SboxChaoticImageEncryption&theme=vue-dark&hide_border=true" alt="SboxChaoticImageEncryption" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Ra-226/Ra-226.github.io">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ra-226&repo=Ra-226.github.io&theme=vue-dark&hide_border=true" alt="Ra-226.github.io" />
-  </a>
-  <a href="https://github.com/Ra-226/wavmark">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ra-226&repo=wavmark&theme=vue-dark&hide_border=true" alt="wavmark" />
-  </a>
-</p>
-
-<p align="center">
-  <i>If it touches media, code, or security, I probably want to build it.</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0891b2,50:1d4ed8,100:0f172a" alt="Footer banner" />
 </p>
