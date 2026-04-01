@@ -46,12 +46,12 @@ preference  : code that explains ideas clearly and can actually be tested
       </ul>
     </td>
     <td valign="top" width="48%">
-      <h3>Current Research Focus</h3>
+      <h3>Past and Present Work</h3>
       <ul>
-        <li>Searchable encryption attacks, especially leakage-abuse, volumetric injection, and recovery analysis.</li>
-        <li>Research threads connected to <b>Violin</b> and related encrypted-search attack ideas such as <b>MIDAS</b>.</li>
-        <li>Multimedia security, including image encryption, steganography, and audio watermarking.</li>
-        <li>Turning papers and research ideas into code that can actually be tested and studied.</li>
+        <li>My past work focused on searchable encryption attacks, especially leakage-abuse, volumetric injection, and recovery analysis.</li>
+        <li>That includes research threads connected to <b>Violin</b>, related encrypted-search attack ideas such as <b>MIDAS</b>, and other security experiments.</li>
+        <li>I also worked on multimedia security topics such as image encryption, steganography, and audio watermarking.</li>
+        <li>Now that I have graduated, I am moving more toward practical engineering, open-source work, and building useful systems beyond a research-only focus.</li>
       </ul>
     </td>
   </tr>
