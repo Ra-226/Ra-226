@@ -111,6 +111,29 @@ preference  : code that explains ideas clearly and can actually be tested
   </tr>
 </table>
 
+<h3 align="center">📝 Papers</h3>
+
+<table style="background-color: white !important; border: none;">
+  <tr style="background-color: white !important; border: none;">
+    <td width="30%" style="background-color: white !important; border: none; padding: 8px 0;">
+      <img src="tdsc.svg" alt="ConsDreamer: Advancing Multi-View Consistency for Zero-Shot Text-to-3D Generation" style="border-radius:8px;border:1px solid #eaeaea;width:100%;" />
+    </td>
+    <td style="background-color: white !important; border: none; text-align: center; padding: 8px 0;">
+      <img src="https://img.shields.io/badge/IEEE- TDSC'25-2ea44f?style=flat" alt="IEEE- TDSC' 25" />
+      <img src="https://img.shields.io/badge/SCI-Q1 Top-b31b1b?style=flat" alt="SCI Q1" />
+      <img src="https://img.shields.io/badge/CCF-A-b31b1b?style=flat" alt="CCF-A" />
+      <img src="https://img.shields.io/badge/IF-7.5-blue?style=flat" alt="IF 7.5" /><br/>
+      <b>Violin: Powerful Volumetric Injection Attack Against Searchable Encryption With Optimal Injection Size</b><br/>
+     <span>Authors: <b style="font-size: 1.1rem;">Lei Zhang</b>, Jianfeng Wang, Jiaojiao Wu, Yunling Wang, Shi-Feng Sun</span><br/>
+      <a href="https://ieeexplore.ieee.org/document/10891733">
+  <img src="https://img.shields.io/badge/IEEE-10891733-00629B?style=plastic&logo=ieee&logoColor=white&logoSize=auto" alt="IEEE Paper" />
+</a>
+      <a href="https://github.com/Ra-226/Violin"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat&logo=github&logoColor=white" alt="Code" /></a>
+    </td>
+  </tr>
+</table>
+
+
 <h3 align="center">What I Like Building</h3>
 
 <p align="center">
