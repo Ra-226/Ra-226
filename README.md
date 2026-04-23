@@ -112,12 +112,12 @@ preference  : code that explains ideas clearly and can actually be tested
 </table>
 <h3 align="center">Papers</h3>
 
-<table width="100%" style="background-color: white !important; border: none; table-layout: fixed;">
+<table width="100%" style="width:100%; background-color: white !important; border: none; table-layout: fixed;">
   <tr style="background-color: white !important; border: none;">
-    <td width="30%" style="background-color: white !important; border: none; padding: 8px 12px 8px 0; vertical-align: middle;">
-      <img src="tdsc.svg" alt="ConsDreamer: Advancing Multi-View Consistency for Zero-Shot Text-to-3D Generation" style="border-radius:8px;border:1px solid #eaeaea;width:100%;" />
+    <td width="30%" style="width:30%; background-color: white !important; border: none; padding: 8px 12px 8px 0; vertical-align: middle;">
+      <img src="tdsc.svg" alt="ConsDreamer: Advancing Multi-View Consistency for Zero-Shot Text-to-3D Generation" style="display:block; border-radius:8px; border:1px solid #eaeaea; width:100%;" />
     </td>
-    <td width="70%" style="background-color: white !important; border: none; text-align: center; padding: 8px 0; vertical-align: middle;">
+    <td width="70%" style="width:70%; background-color: white !important; border: none; text-align: center; padding: 8px 0; vertical-align: middle;">
       <img src="https://img.shields.io/badge/IEEE- TDSC'25-2ea44f?style=flat" alt="IEEE- TDSC' 25" />
       <img src="https://img.shields.io/badge/SCI-Q1 Top-e65100?style=flat" alt="SCI Q1" />
       <img src="https://img.shields.io/badge/CCF-A-b31b1b?style=flat" alt="CCF-A" />
@@ -131,13 +131,11 @@ preference  : code that explains ideas clearly and can actually be tested
       <a href="https://github.com/Ra-226/Violin"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat&logo=github&logoColor=white" alt="Code" /></a>
     </td>
   </tr>
-</table>
-<table width="100%" style="background-color: white !important; border: none; table-layout: fixed;">
   <tr style="background-color: white !important; border: none;">
-    <td width="30%" style="background-color: white !important; border: none; padding: 8px 12px 8px 0; vertical-align: middle;">
-      <img src="ei.svg" alt="ConsDreamer: Advancing Multi-View Consistency for Zero-Shot Text-to-3D Generation" style="border-radius:8px;border:1px solid #eaeaea;width:100%;" />
+    <td width="30%" style="width:30%; background-color: white !important; border: none; padding: 8px 12px 8px 0; vertical-align: middle;">
+      <img src="ei.svg" alt="ConsDreamer: Advancing Multi-View Consistency for Zero-Shot Text-to-3D Generation" style="display:block; border-radius:8px; border:1px solid #eaeaea; width:100%;" />
     </td>
-    <td width="70%" style="background-color: white !important; border: none; text-align: center; padding: 8px 0; vertical-align: middle;">
+    <td width="70%" style="width:70%; background-color: white !important; border: none; text-align: center; padding: 8px 0; vertical-align: middle;">
       <img src="https://img.shields.io/badge/EI-JBUPT'21-2ea44f?style=flat" alt="EI-JBUPT' 21" />
       <img src="https://img.shields.io/badge/IF-1.6-blue?style=flat" alt="IF 1.6" /><br/>
       <b>An Image Encryption Algorithm Combining S-Box and Chaotic Mapping</b><br/>
