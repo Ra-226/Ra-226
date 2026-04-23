@@ -110,8 +110,7 @@ preference  : code that explains ideas clearly and can actually be tested
     </td>
   </tr>
 </table>
-
-<h3 align="center">📝 Papers</h3>
+<h3 align="center">Papers</h3>
 
 <table style="background-color: white !important; border: none;">
   <tr style="background-color: white !important; border: none;">
@@ -120,11 +119,12 @@ preference  : code that explains ideas clearly and can actually be tested
     </td>
     <td style="background-color: white !important; border: none; text-align: center; padding: 8px 0;">
       <img src="https://img.shields.io/badge/IEEE- TDSC'25-2ea44f?style=flat" alt="IEEE- TDSC' 25" />
-      <img src="https://img.shields.io/badge/SCI-Q1 Top-b31b1b?style=flat" alt="SCI Q1" />
+      <img src="https://img.shields.io/badge/SCI-Q1 Top-e65100?style=flat" alt="SCI Q1" />
       <img src="https://img.shields.io/badge/CCF-A-b31b1b?style=flat" alt="CCF-A" />
+      <img src="https://img.shields.io/badge/CACR-A-6a1b9a?style=flat" alt="CCF-A" />
       <img src="https://img.shields.io/badge/IF-7.5-blue?style=flat" alt="IF 7.5" /><br/>
       <b>Violin: Powerful Volumetric Injection Attack Against Searchable Encryption With Optimal Injection Size</b><br/>
-     <span>Authors: <b style="font-size: 1.1rem;">Lei Zhang</b>, Jianfeng Wang, Jiaojiao Wu, Yunling Wang, Shi-Feng Sun</span><br/>
+     <span>Authors: <b style="font-size: 1.1rem;"><span style="color: #008080;">Lei Zhang</span></b>, Jianfeng Wang, Jiaojiao Wu, Yunling Wang, Shi-Feng Sun</span><br/>
       <a href="https://ieeexplore.ieee.org/document/10891733">
   <img src="https://img.shields.io/badge/IEEE-10891733-00629B?style=plastic&logo=ieee&logoColor=white&logoSize=auto" alt="IEEE Paper" />
 </a>
@@ -132,6 +132,24 @@ preference  : code that explains ideas clearly and can actually be tested
     </td>
   </tr>
 </table>
+<table style="background-color: white !important; border: none;">
+  <tr style="background-color: white !important; border: none;">
+    <td width="30%" style="background-color: white !important; border: none; padding: 8px 0;">
+      <img src="ei.svg" alt="ConsDreamer: Advancing Multi-View Consistency for Zero-Shot Text-to-3D Generation" style="border-radius:8px;border:1px solid #eaeaea;width:100%;" />
+    </td>
+    <td style="background-color: white !important; border: none; text-align: center; padding: 8px 0;">
+      <img src="https://img.shields.io/badge/EI-JBUPT'21-2ea44f?style=flat" alt="EI-JBUPT' 21" />
+      <img src="https://img.shields.io/badge/IF-1.6-blue?style=flat" alt="IF 1.6" /><br/>
+      <b>An Image Encryption Algorithm Combining S-Box and Chaotic Mapping</b><br/>
+     <span>Authors: <b style="font-size: 1.1rem;"><span style="color: #008080;">Lei Zhang</span></b>, Chuan Chen, Qiyun Tan, Maoxin Hao, Xuekang Yang</span><br/>
+      <a href="https://journal.bupt.edu.cn/CN/10.13190/j.jbupt.2021-061">
+  <img src="https://img.shields.io/badge/Elsevier-061-ff6c37?style=flat-square&logo=elsevier&logoColor=white" alt="Ei Compendex Indexed Paper" />
+</a>
+      <a href="https://github.com/Ra-226/SboxChaoticImageEncryption"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat&logo=github&logoColor=white" alt="Code" /></a>
+    </td>
+  </tr>
+</table>
+
 
 
 <h3 align="center">What I Like Building</h3>
