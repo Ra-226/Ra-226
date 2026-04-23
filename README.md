@@ -124,7 +124,7 @@ preference  : code that explains ideas clearly and can actually be tested
       <img src="https://img.shields.io/badge/CACR-A-6a1b9a?style=flat" alt="CCF-A" />
       <img src="https://img.shields.io/badge/IF-7.5-blue?style=flat" alt="IF 7.5" /><br/>
       <b>Violin: Powerful Volumetric Injection Attack Against Searchable Encryption With Optimal Injection Size</b><br/>
-     <span>Authors: <b style="font-size: 1.1rem;"><span style="color: #008080;">Lei Zhang</span></b>, Jianfeng Wang, Jiaojiao Wu, Yunling Wang, Shi-Feng Sun</span><br/>
+     <span>Authors: <b style="font-size: 1.1rem;"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 70 20" height="20" width="100" style="display: inline; vertical-align: middle;"><text x="0" y="15" fill="#008080">Lei Zhang</text></svg></b>, Jianfeng Wang, Jiaojiao Wu, Yunling Wang, Shi-Feng Sun</span><br/>
       <a href="https://ieeexplore.ieee.org/document/10891733">
   <img src="https://img.shields.io/badge/IEEE-10891733-00629B?style=plastic&logo=ieee&logoColor=white&logoSize=auto" alt="IEEE Paper" />
 </a>
@@ -141,7 +141,7 @@ preference  : code that explains ideas clearly and can actually be tested
       <img src="https://img.shields.io/badge/EI-JBUPT'21-2ea44f?style=flat" alt="EI-JBUPT' 21" />
       <img src="https://img.shields.io/badge/IF-1.6-blue?style=flat" alt="IF 1.6" /><br/>
       <b>An Image Encryption Algorithm Combining S-Box and Chaotic Mapping</b><br/>
-     <span>Authors: <b style="font-size: 1.1rem;"><span style="color: #008080;">Lei Zhang</span></b>, Chuan Chen, Qiyun Tan, Maoxin Hao, Xuekang Yang</span><br/>
+     <span>Authors: <b style="font-size: 1.1rem;"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 70 20" height="20" width="100" style="display: inline; vertical-align: middle;"><text x="0" y="15" fill="#008080">Lei Zhang</text></svg></b>, Chuan Chen, Qiyun Tan, Maoxin Hao, Xuekang Yang</span><br/>
       <a href="https://journal.bupt.edu.cn/CN/10.13190/j.jbupt.2021-061">
   <img src="https://img.shields.io/badge/Elsevier-061-ff6c37?style=flat-square&logo=elsevier&logoColor=white" alt="Ei Compendex Indexed Paper" />
 </a>
@@ -149,6 +149,7 @@ preference  : code that explains ideas clearly and can actually be tested
     </td>
   </tr>
 </table>
+
 
 
 
