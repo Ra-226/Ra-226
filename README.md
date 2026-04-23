@@ -141,7 +141,7 @@ preference  : code that explains ideas clearly and can actually be tested
       <img src="https://img.shields.io/badge/EI-JBUPT'21-2ea44f?style=flat" alt="EI-JBUPT' 21" />
       <img src="https://img.shields.io/badge/IF-1.6-blue?style=flat" alt="IF 1.6" /><br/>
       <b>An Image Encryption Algorithm Combining S-Box and Chaotic Mapping</b><br/>
-     <span>Authors: <b><font color="#008080">Lei Zhang</font></b>, Chuan Chen, Qiyun Tan, Maoxin Hao, Xuekang Yang</span><br/>
+     <span>Authors: $\color{#008080}{\text{Lei Zhang}}$, Chuan Chen, Qiyun Tan, Maoxin Hao, Xuekang Yang</span><br/>
       <a href="https://journal.bupt.edu.cn/CN/10.13190/j.jbupt.2021-061">
   <img src="https://img.shields.io/badge/Elsevier-061-ff6c37?style=flat-square&logo=elsevier&logoColor=white" alt="Ei Compendex Indexed Paper" />
 </a>
