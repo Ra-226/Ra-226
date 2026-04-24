@@ -92,8 +92,8 @@ preference  : code that explains ideas clearly and can actually be tested
       <sub>Python | searchable encryption | attack research</sub>
     </td>
     <td valign="top" width="50%">
-      <a href="https://github.com/Ra-226/file-hiding-and-detection"><b>file-hiding-and-detection</b></a><br/>
-      Hide arbitrary files in JPEG images with AES-256-GCM and detect, extract, decrypt, or strip hidden payloads.<br/>
+      <a href="https://github.com/Ra-226/polar-code-python"><b>polar-code-python</b></a><br/>
+      Python implementation of core 5G NR Polar coding components, converted and adapted from MATLAB-style workflows for experimentation, learning, and simulation.<br/>
       <sub>Python | JPEG analysis | steganography tooling</sub>
     </td>
   </tr>
