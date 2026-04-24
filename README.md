@@ -94,7 +94,7 @@ preference  : code that explains ideas clearly and can actually be tested
     <td valign="top" width="50%">
       <a href="https://github.com/Ra-226/polar-code-python"><b>polar-code-python</b></a><br/>
       Python implementation of core 5G NR Polar coding components, converted and adapted from MATLAB-style workflows for experimentation, learning, and simulation.<br/>
-      <sub>Python | JPEG analysis | steganography tooling</sub>
+      <sub>Python | Polar | Encode | CRC</sub>
     </td>
   </tr>
   <tr>
