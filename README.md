@@ -118,9 +118,9 @@ preference  : code that explains ideas clearly and can actually be tested
       <img src="acm ccs.svg" alt="ConsDreamer: Advancing Multi-View Consistency for Zero-Shot Text-to-3D Generation" style="display:block; border-radius:8px; border:1px solid #eaeaea; width:100%;" />
     </td>
     <td width="70%" style="width:70%; background-color: white !important; border: none; text-align: center; padding: 8px 0; vertical-align: middle;">
-      <img src="https://img.shields.io/badge/ACM-CCS'26-0085CA?style=flat" alt="ACM CCS'26" />
-      <img src="https://img.shields.io/badge/CCF-A-b31b1b?style=flat" alt="CCF-A" />
-      <img src="https://img.shields.io/badge/CACR-A-6a1b9a?style=flat" alt="CACR-A" /> <span style="vertical-align:middle;">* Equal contribution</span><br/>
+      <img src="https://img.shields.io/badge/ACM-CCS'26-0085CA?style=flat" alt="ACM CCS'26" style="vertical-align:middle;" />
+      <img src="https://img.shields.io/badge/CCF-A-b31b1b?style=flat" alt="CCF-A" style="vertical-align:middle;" />
+      <img src="https://img.shields.io/badge/CACR-A-6a1b9a?style=flat" alt="CACR-A" style="vertical-align:middle;" /> <span style="vertical-align:middle;">* Equal contribution</span><br/>
       <b>Boosting Query Recovery against Encrypted Databases: High-Accuracy and Efficient Inference Attacks Using Minimal Leakage</b><br/>
      <span>Authors:  Jiaojiao Wu*, $\color{#008080}{\textbf{Lei Zhang}}$*, Jianfeng Wang, Shi-Feng Sun, Xiaofeng Chen</span><br/>
       <a href="https://github.com/Ra-226/Midas"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat&logo=github&logoColor=white" alt="Code" /></a>
