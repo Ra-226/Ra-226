@@ -122,7 +122,7 @@ preference  : code that explains ideas clearly and can actually be tested
       <img src="https://img.shields.io/badge/CCF-A-b31b1b?style=flat" alt="CCF-A" style="vertical-align:middle;" />
       <img src="https://img.shields.io/badge/CACR-A-6a1b9a?style=flat" alt="CACR-A" /> <!-- <img src="https://img.shields.io/badge/*-Equal%20contribution-6a1b9a?style=flat" alt="* Equal contribution" /> --><br/>
       <b>Boosting Query Recovery against Encrypted Databases: High-Accuracy and Efficient Inference Attacks Using Minimal Leakage</b><br/>
-     <span>$\color{#008080}{\textbf{Lei Zhang (Equal contribution)}}$, Jiaojiao Wu, Jianfeng Wang, Shi-Feng Sun, Xiaofeng Chen</span><br/>
+     <span>Jiaojiao Wu*, $\color{#008080}{\textbf{Lei Zhang (Equal contribution)}}$*, Jianfeng Wang, Shi-Feng Sun, Xiaofeng Chen</span><br/>
       <a href="https://github.com/Ra-226/Midas"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat&logo=github&logoColor=white" alt="Code" /></a>
     </td>
   </tr>
@@ -137,7 +137,7 @@ preference  : code that explains ideas clearly and can actually be tested
       <img src="https://img.shields.io/badge/CACR-A-6a1b9a?style=flat" alt="CACR-A" />
       <img src="https://img.shields.io/badge/IF-7.5-blue?style=flat" alt="IF 7.5" /><br/>
       <b>Violin: Powerful Volumetric Injection Attack Against Searchable Encryption With Optimal Injection Size</b><br/>
-     <span>Authors: $\color{#008080}{\textbf{Lei Zhang}}$, Jianfeng Wang, Jiaojiao Wu, Yunling Wang, Shi-Feng Sun</span><br/>
+     <span>$\color{#008080}{\textbf{Lei Zhang}}$, Jianfeng Wang, Jiaojiao Wu, Yunling Wang, Shi-Feng Sun</span><br/>
       <a href="https://ieeexplore.ieee.org/document/10891733">
   <img src="https://img.shields.io/badge/|-10891733-00629B?style=plastic&logo=ieee&logoColor=white&logoSize=auto" alt="IEEE Paper" />
 </a>
@@ -152,7 +152,7 @@ preference  : code that explains ideas clearly and can actually be tested
       <img src="https://img.shields.io/badge/EI-JBUPT'21-2ea44f?style=flat" alt="EI-JBUPT' 21" />
       <img src="https://img.shields.io/badge/IF-1.6-blue?style=flat" alt="IF 1.6" /><br/>
       <b>An Image Encryption Algorithm Combining S-Box and Chaotic Mapping</b><br/>
-     <span>Authors: $\color{#008080}{\textbf{Lei Zhang}}$, Chuan Chen, Qiyun Tan, Maoxin Hao, Xuekang Yang</span><br/>
+     <span>$\color{#008080}{\textbf{Lei Zhang}}$, Chuan Chen, Qiyun Tan, Maoxin Hao, Xuekang Yang</span><br/>
       <a href="https://journal.bupt.edu.cn/CN/10.13190/j.jbupt.2021-061">
   <img src="https://img.shields.io/badge/Elsevier-061-ff6c37?style=flat-square&logo=elsevier&logoColor=white" alt="Ei Compendex Indexed Paper" />
 </a>
