@@ -115,7 +115,7 @@ preference  : code that explains ideas clearly and can actually be tested
 <table width="100%" style="width:100%; background-color: white !important; border: none; table-layout: fixed;">
   <tr style="background-color: white !important; border: none;">
     <td width="30%" style="width:30%; background-color: white !important; border: none; padding: 8px 12px 8px 0; vertical-align: middle;">
-      <img src="CCS-logo.png" alt="ConsDreamer: Advancing Multi-View Consistency for Zero-Shot Text-to-3D Generation" style="display:block; border-radius:8px; border:1px solid #eaeaea; width:100%;" />
+      <img src="acm ccs.svg" alt="ConsDreamer: Advancing Multi-View Consistency for Zero-Shot Text-to-3D Generation" style="display:block; border-radius:8px; border:1px solid #eaeaea; width:100%;" />
     </td>
     <td width="70%" style="width:70%; background-color: white !important; border: none; text-align: center; padding: 8px 0; vertical-align: middle;">
       <img src="https://img.shields.io/badge/ACM-CCS'26-0085CA?style=flat" alt="ACM CCS'26" />
@@ -160,6 +160,7 @@ preference  : code that explains ideas clearly and can actually be tested
     </td>
   </tr>
 </table>
+
 
 
 
