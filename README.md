@@ -115,18 +115,31 @@ preference  : code that explains ideas clearly and can actually be tested
 <table width="100%" style="width:100%; background-color: white !important; border: none; table-layout: fixed;">
   <tr style="background-color: white !important; border: none;">
     <td width="30%" style="width:30%; background-color: white !important; border: none; padding: 8px 12px 8px 0; vertical-align: middle;">
+      <img src="CCS-logo.png" alt="ConsDreamer: Advancing Multi-View Consistency for Zero-Shot Text-to-3D Generation" style="display:block; border-radius:8px; border:1px solid #eaeaea; width:100%;" />
+    </td>
+    <td width="70%" style="width:70%; background-color: white !important; border: none; text-align: center; padding: 8px 0; vertical-align: middle;">
+      <img src="https://img.shields.io/badge/ACM-CCS'26-0085CA?style=flat" alt="ACM CCS'26" />
+      <img src="https://img.shields.io/badge/CCF-A-b31b1b?style=flat" alt="CCF-A" />
+      <img src="https://img.shields.io/badge/CACR-A-6a1b9a?style=flat" alt="CACR-A" /><br/>
+      <b>Boosting Query Recovery against Encrypted Databases: High-Accuracy and Efficient Inference Attacks Using Minimal Leakage</b><br/>
+     <span>Authors:  Jiaojiao Wu, $\color{#008080}{\textbf{Lei Zhang (Co-first authors)}}$, Jianfeng Wang, Shi-Feng Sun, Xiaofeng Chen</span><br/>
+      <a href="https://github.com/Ra-226/Midas"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat&logo=github&logoColor=white" alt="Code" /></a>
+    </td>
+  </tr>
+  <tr style="background-color: white !important; border: none;">
+    <td width="30%" style="width:30%; background-color: white !important; border: none; padding: 8px 12px 8px 0; vertical-align: middle;">
       <img src="tdsc.svg" alt="ConsDreamer: Advancing Multi-View Consistency for Zero-Shot Text-to-3D Generation" style="display:block; border-radius:8px; border:1px solid #eaeaea; width:100%;" />
     </td>
     <td width="70%" style="width:70%; background-color: white !important; border: none; text-align: center; padding: 8px 0; vertical-align: middle;">
       <img src="https://img.shields.io/badge/IEEE- TDSC'25-2ea44f?style=flat" alt="IEEE- TDSC' 25" />
       <img src="https://img.shields.io/badge/SCI-Q1 Top-e65100?style=flat" alt="SCI Q1" />
       <img src="https://img.shields.io/badge/CCF-A-b31b1b?style=flat" alt="CCF-A" />
-      <img src="https://img.shields.io/badge/CACR-A-6a1b9a?style=flat" alt="CCF-A" />
+      <img src="https://img.shields.io/badge/CACR-A-6a1b9a?style=flat" alt="CACR-A" />
       <img src="https://img.shields.io/badge/IF-7.5-blue?style=flat" alt="IF 7.5" /><br/>
       <b>Violin: Powerful Volumetric Injection Attack Against Searchable Encryption With Optimal Injection Size</b><br/>
      <span>Authors: $\color{#008080}{\textbf{Lei Zhang}}$, Jianfeng Wang, Jiaojiao Wu, Yunling Wang, Shi-Feng Sun</span><br/>
       <a href="https://ieeexplore.ieee.org/document/10891733">
-  <img src="https://img.shields.io/badge/IEEE-10891733-00629B?style=plastic&logo=ieee&logoColor=white&logoSize=auto" alt="IEEE Paper" />
+  <img src="https://img.shields.io/badge/|-10891733-00629B?style=plastic&logo=ieee&logoColor=white&logoSize=auto" alt="IEEE Paper" />
 </a>
       <a href="https://github.com/Ra-226/Violin"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat&logo=github&logoColor=white" alt="Code" /></a>
     </td>
@@ -147,6 +160,9 @@ preference  : code that explains ideas clearly and can actually be tested
     </td>
   </tr>
 </table>
+
+
+
 
 
 
