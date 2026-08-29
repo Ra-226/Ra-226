@@ -120,9 +120,9 @@ preference  : code that explains ideas clearly and can actually be tested
     <td width="70%" style="width:70%; background-color: white !important; border: none; text-align: center; padding: 8px 0; vertical-align: middle;">
       <img src="https://img.shields.io/badge/ACM-CCS'26-0085CA?style=flat" alt="ACM CCS'26" />
       <img src="https://img.shields.io/badge/CCF-A-b31b1b?style=flat" alt="CCF-A" />
-      <img src="https://img.shields.io/badge/CACR-A-6a1b9a?style=flat" alt="CACR-A" /><br/>
+      <img src="https://img.shields.io/badge/CACR-A-6a1b9a?style=flat" alt="CACR-A" /> <sup>†</sup> Equal contribution<br/>
       <b>Boosting Query Recovery against Encrypted Databases: High-Accuracy and Efficient Inference Attacks Using Minimal Leakage</b><br/>
-     <span>Authors:  Jiaojiao Wu, $\color{#008080}{\textbf{Lei Zhang (Co-first authors)}}$, Jianfeng Wang, Shi-Feng Sun, Xiaofeng Chen</span><br/>
+     <span>Authors:  Jiaojiao Wu$^{\dagger}$, $\color{#008080}{\textbf{Lei Zhang^{\dagger}}}$, Jianfeng Wang, Shi-Feng Sun, Xiaofeng Chen</span><br/>
       <a href="https://github.com/Ra-226/Midas"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat&logo=github&logoColor=white" alt="Code" /></a>
     </td>
   </tr>
@@ -160,6 +160,7 @@ preference  : code that explains ideas clearly and can actually be tested
     </td>
   </tr>
 </table>
+
 
 
 
